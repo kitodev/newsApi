@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css?family=Lato");
+@import url("https://fonts.googleapis.com/css?family=Lato:100");
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #e0e0e0;
+  font-family: "Tahoma", Arial, Helvetica, sans-serif; }
+
+#newsListContainer {
+  margin: 30px 20px 206px 20px; }
+
+.listItems {
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #ffffff;
+  border: 1px solid #d0d0d0;
+  color: #5c5c5c;
+  font-family: "Tahoma", Arial, Helvetica, sans-serif; }
+  .listItems .listText {
+    font-size: 11px; }
+    .listItems .listText p {
+      margin: 0; }
+    .listItems .listText .title {
+      font-size: 15px;
+      color: #66b779;
+      margin: 0; }
+    .listItems .listText .author {
+      color: #0b6721; }
+  .listItems .squared-item {
+    width: 78px;
+    height: auto;
+    margin-right: 7px; }
+    .listItems .squared-item img {
+      border: 2px solid #66b779; }
