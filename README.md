@@ -7,5 +7,5 @@
 npm install
 
 # serve with hot reload at localhost:8080
-npm run gulp-live-server
+npm start gulp-live-server
 ```
